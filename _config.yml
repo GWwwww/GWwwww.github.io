@@ -27,14 +27,15 @@ title:                 卷湮金风
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  A Jekyll theme with JavaScript powers. "Best Theme by a Mile".
-  Combines the best of static sites and modern web apps.
-  Open `_config.yml` to edit this text.
+  A personal fanfic palace
+  Star wars, Biohazard, Games, Marvel, 
+  And a bit of toys, food and fitness.
 
 # A shorter description for the sidebar.
 tagline:               >
-  A Jekyll theme with JavaScript powers.
-  Open `_config.yml` to edit this text.
+  A personal fanfic palace
+  Star wars, Biohazard, Games, Marvel, 
+  And a bit of toys, food and fitness.
 
 # A list of keywords for your blog
 keywords:              []
