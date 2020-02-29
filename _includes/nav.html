@@ -1,24 +1,29 @@
-<span class="sr-only">{{ site.data.strings.navigation | default:"Navigation" }}{{ site.data.strings.colon | default:":" }}</span>
-<ul>
-  {% assign pages = site.pages | where: "menu", true %}
-  {% assign documents = site.documents | where: "menu", true %}
-  {% assign nodes = pages | concat: documents | sort: "order" %}
-  {% for node in nodes %}
-    {% unless node.redirect_to %}
-      <li>
-        <a
-          {% if forloop.first %}id="_navigation"{% endif %}
-          href="{{ node.url | relative_url }}"
-          class="sidebar-nav-item{% if page.url contains node.url %} active{% endif %}"
-          {% if path.rel %}rel="{{ node.rel }}"{% endif %}
-          >
-          {{ node.title }}
-        </a>
-      </li>
-    {% else %}
-      <li>
-        <a href="{{ node.redirect_to }}" class="sidebar-nav-item external" >{{ node.title }}</a>
-      </li>
-    {% endunless %}
-  {% endfor %}
-</ul>
+<div class="wrapper-sidebar">
+  <header class="sidebar clearfix">
+    <div class="site-info">
+      {% if site.avatar %}
+        <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
+      {% endif %} 
+      <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
+      <p class="site-description">{{ site.description }}</p>
+    </div>
+  </header>
+
+  <div class="navlist">
+    <nav>
+      {% for nav in site.navigation %}
+      {% if nav.url contains 'http://' or nav.url contains 'https://' %}
+      <a href="{{ nav.url }}">{{ nav.name }}</a>
+      {% else %}
+      <a href="{{ site.baseurl }}{{ nav.url }}">{{ nav.name }}</a>
+      {% endif %}
+      {% endfor %}
+    </nav>
+  </div>
+
+  <div class="wrapper-footer-desktop">
+    <footer class="footer">
+      {% include footer.html %}
+    </footer>
+  </div>
+</div>
