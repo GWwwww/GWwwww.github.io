@@ -1,7 +1,7 @@
 ---
 layout: list
 title: StarWarsFic
-slug: starwars
+slug: starwar
 menu: true
 order: 2
 description: >
@@ -9,6 +9,6 @@ description: >
   
   Also I'm a fan of TCW, SWR, starwars comic and games. Ashoka and Ventress are always my girl.<br>
   
-  Watch my starwars fanfic below.
+  Watch my starwars fanfics below.
 
 ---
