@@ -1,7 +1,7 @@
 ---
 layout: list
 title: Biohazard
-slug: hydejack
+slug: Biohazard
 menu: true
 order: 2
 description: >
