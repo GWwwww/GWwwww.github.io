@@ -1,7 +1,7 @@
 ---
 layout: list
 title: StarWarsFic
-slug: starwars
+slug: hydejack
 menu: true
 order: 1
 description: >
