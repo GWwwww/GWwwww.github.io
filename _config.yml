@@ -163,8 +163,8 @@ hydejack:
 # Menu
 # ========================================================================================
 menu:
-  - title: "Weibo"
-    url:   https://weibo.com/1785403464/profile?topnav=1&wvr=6&is_all=1
+  - title:  Weibo
+    url:    https://weibo.com/1785403464/profile?topnav=1&wvr=6&is_all=1
 
 # Collections
 # ========================================================================================
