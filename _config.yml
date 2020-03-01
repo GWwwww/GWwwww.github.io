@@ -29,7 +29,10 @@ title:                 卷湮金风
 description:           >
   A palace for my fanfic.
   Starwars, games, marvel, Doctor who,
-  a bit toys, foods and fitness.
+  a bit toys, foods and fitness.    
+  游戏，星战，fgo，杂七杂八
+  屁事不干，成天瞎唠，请没事找我聊天
+  提问箱：http://www.popiask.cn/ZwRST4
 
 # A shorter description for the sidebar.
 tagline:               >
@@ -48,10 +51,7 @@ logo:                  /assets/icons/icon.png
 author:
   name:                Goldenwind
   picture:  /assets/icons/icon.png
-  about: |
-    游戏，星战，fgo，杂七杂八
-    屁事不干，成天瞎唠，请没事找我聊天
-    提问箱：http://www.popiask.cn/ZwRST4
+
  
   social:
     github:          <username>
@@ -170,7 +170,7 @@ collections:
     output:            true
 
   featured_tags:
-    permalink:         /tag/:starwars/
+    permalink:         /tag/:name/
     output:            true
 
   projects:
