@@ -47,7 +47,7 @@ author:
   name:                <firstname> <lastname>
   email:               <mail@domain.tld>
   # Used by `jekyll-seo-tag`:
-  # twitter:             <username>
+  twitter:             goldenwinnnnnnnd
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             © 2017. All rights reserved.
@@ -227,8 +227,8 @@ plugins:
 # social:
 #   name:                <firstname> <lastname>
 #   links:
-#     - https://twitter.com/<username>
-#     - https://github.com/<username>
+     - https://twitter.com/goldenwinnnnnnnd
+     - https://github.com/GWwwww
 
 
 # Other Plugins
