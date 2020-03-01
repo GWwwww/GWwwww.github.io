@@ -160,13 +160,17 @@ hydejack:
   cookies_banner:      false
 
 
-defaults:
-  - scope:
-      path: 404.md
-    values:
-      menu: true
-      order: 1
-     
+menu:
+  - title: Blog
+    url:   /blog/
+  - title: Projects
+    url:   /projects/
+  - title: Resume
+    url:   /resume/
+  - title: About
+    url:   /about/
+    
+    
 # Collections
 # ========================================================================================
 
