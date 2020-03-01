@@ -24,11 +24,13 @@ author1:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    github：  GWwwww
+    github:          <username>
     twitter:  goldenwinnnnnnnd
     tumblr:   celiagoldenwind
+    instagram:       goldenwinnnnnnd
+    rss:             https://weibo.com/1785403464/profile?topnav=1&wvr=6&is_all=1
     # email:           mailto:<mail@domain.tld>
-    #rss:             https://weibo.com/1785403464/profile?topnav=1&wvr=6&is_all=1
+    # rss:             https://weibo.com/1785403464/profile?topnav=1&wvr=6&is_all=1
     # facebook:        <username>
     # google:          <number>
     # vk:              <username>
@@ -38,7 +40,7 @@ author1:
     # spotify:         <user>/<number>
     # soundcloud:      <username>
     # lastfm:          <username>
-    instagram:       goldenwinnnnnnd
+    # instagram:       goldenwinnnnnnd
     # flickr:          <string@string>
     # 500px:           <username>
     # dribbble:        <username>
