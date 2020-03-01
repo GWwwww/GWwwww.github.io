@@ -1,6 +1,6 @@
 ---
 layout: list
-title: Hydedddd
+title: Others
 slug: hyde
 menu: true
 order: 3
