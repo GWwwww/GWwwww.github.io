@@ -46,9 +46,8 @@ logo:                  /assets/icons/icon.png
 # This should be the same author as first entry in `_data/authors.yml`.
 # Duplication is necessary due to the `jekyll-feed`, `jekyll-seo-tag` plugin.
 author:
+#  picture:  /assets/icons/icon.png
   name:                Goldenwind
-  picture:  /assets/icons/icon.png
-
   social:
     twitter:  goldenwinnnnnnnd
     tumblr:   celiagoldenwind
