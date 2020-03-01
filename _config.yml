@@ -54,11 +54,10 @@ author:
     提问箱：http://www.popiask.cn/ZwRST4
   
   social:
-  #  github:          <username>
+    github:          <username>
     twitter:  goldenwinnnnnnnd
     tumblr:   celiagoldenwind
     instagram: goldenwinnnnnnd
-    Weibo: https://weibo.com/1785403464/profile?topnav=1&wvr=6&is_all=1
     lofter：           https://juanyanjinfeng.lofter.com/
   #email:               <mail@domain.tld>
   # Used by `jekyll-seo-tag`:
