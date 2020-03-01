@@ -58,7 +58,7 @@ author:
     twitter:  goldenwinnnnnnnd
     tumblr:   celiagoldenwind
     instagram: goldenwinnnnnnd
-    rss: https://weibo.com/1785403464/profile?topnav=1&wvr=6&is_all=1
+    Weibo: https://weibo.com/1785403464/profile?topnav=1&wvr=6&is_all=1
   #email:               <mail@domain.tld>
   # Used by `jekyll-seo-tag`:
   # twitter:             <username>
@@ -160,17 +160,7 @@ hydejack:
   cookies_banner:      false
 
 
-menu:
-  - title: Blog
-    url:   /blog/
-  - title: Projects
-    url:   /projects/
-  - title: Resume
-    url:   /resume/
-  - title: About
-    url:   /about/
-    
-    
+
 # Collections
 # ========================================================================================
 
