@@ -3,9 +3,9 @@ layout: list
 title: Biohazard
 slug: biohazard
 menu: true
-order: 3
+order: 2
 description: >
-  Hydejack is a pretentious two-column [Jekyll](http://jekyllrb.com/) theme, stolen by
-  [@qwtel](https://twitter.com/qwtel) from [Hyde](http://hyde.getpoole.com).
+    Here's my resident evil game fanfic. Mostly are Chris/Wesker and Piers/Jake.
+	Find them below.
 
 ---
