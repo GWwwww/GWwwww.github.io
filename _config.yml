@@ -224,11 +224,14 @@ plugins:
 #   admins:              <id>
 
 # Used on index and about sites
-# social:
+social:
+    twitter:         <goldenwinnnnnnnd>
+    github:          <GWwwww>
+    tumblr:          <celiagoldenwind>
 #   name:                <firstname> <lastname>
 #   links:
-     - https://twitter.com/goldenwinnnnnnnd
-     - https://github.com/GWwwww
+#     - https://twitter.com/goldenwinnnnnnnd
+#     - https://github.com/GWwwww
 
 
 # Other Plugins
