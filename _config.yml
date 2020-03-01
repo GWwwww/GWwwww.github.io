@@ -170,7 +170,7 @@ collections:
     output:            true
 
   featured_tags:
-    permalink:         /tag/:name/
+    permalink:         /tag/:starwars/
     output:            true
 
   projects:
