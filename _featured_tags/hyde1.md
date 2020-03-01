@@ -1,6 +1,6 @@
 ---
 layout: list
-title: Hyde1
+title: StarWarsFic
 slug: hyde
 menu: true
 order: 7
