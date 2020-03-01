@@ -1,7 +1,7 @@
 ---
 layout: list
 title: Biohazard
-slug: Biohazard
+slug: biohazard
 menu: true
 order: 2
 description: >
