@@ -1,9 +1,9 @@
 ---
 layout: list
-title: Essays
-slug: essays
+title: hyde1
+slug: biohazard
 menu: true
-order: 3
+order: 2
 description: >
   Essays, toys, notes and everything else.
 

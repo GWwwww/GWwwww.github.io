@@ -3,7 +3,7 @@ layout: list
 title: StarWarsFic
 slug: starwar
 menu: true
-order: 2
+order: 1
 description: >
   I have a passion for darkside, Vader & Anakin is my favorite, also Palpatine, Thawn and Maul.<br>
   

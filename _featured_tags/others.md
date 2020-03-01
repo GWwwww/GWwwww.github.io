@@ -3,7 +3,7 @@ layout: list
 title: Others
 slug: others
 menu: true
-order: 5
+order: 4
 description: >
   Here're my scattered fanfics.
 ---
