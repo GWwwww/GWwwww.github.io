@@ -1,9 +1,9 @@
 ---
 layout: list
 title: BiohazardFic
-slug: bio
+slug: biohazard
 menu: true
-order: 5
+order: 2
 description: >
    Chris X Wesker <br>
    Piers X Jake <br>
