@@ -1,11 +1,14 @@
 ---
 layout: list
 title: BiohazardFic
-slug: starwars
+slug: bio
 menu: true
 order: 3
 description: >
-    Here's my resident evil game fanfic. Mostly are Chris X Wesker and Piers X Jake.<br>
-	Find them below.
-
+    Chris X Wesker <br>
+	
+	Piers X Jake <br>
+	
+	Leon X Buddy <br>
+	
 ---
